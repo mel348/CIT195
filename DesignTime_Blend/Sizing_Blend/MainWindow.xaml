@@ -1,0 +1,14 @@
+﻿<Window x:Class="Sizing_Blend.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sizing_Blend"
+        mc:Ignorable="d"
+        Title="MainWindow" Width="640" Height="127" MinWidth="300" MinHeight="250">
+    <Grid>
+        <Rectangle HorizontalAlignment="Center" Height="158" Stroke="Black" VerticalAlignment="Top" Width="640" Fill="#FF3B5DB7"/>
+        <Rectangle HorizontalAlignment="Center" Height="76" Margin="0,158,0,0" Stroke="Black" VerticalAlignment="Top" Width="640" Fill="#FFDEE045"/>
+
+    </Grid>
+</Window>
