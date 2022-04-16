@@ -1,0 +1,16 @@
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\bin\Debug\Blend_Brushes1.exe.config
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\bin\Debug\Blend_Brushes1.exe
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\bin\Debug\Blend_Brushes1.pdb
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.csproj.AssemblyReference.cache
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.csproj.SuggestedBindingRedirects.cache
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\MainWindow.g.cs
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\App.g.cs
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1_MarkupCompile.cache
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1_MarkupCompile.lref
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\MainWindow.baml
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.g.resources
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.Properties.Resources.resources
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.csproj.GenerateResource.cache
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.csproj.CoreCompileInputs.cache
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.exe
+C:\Users\melis\source\repos\Blend_Brushes1\Blend_Brushes1\obj\Debug\Blend_Brushes1.pdb
