@@ -1,0 +1,16 @@
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.csproj.AssemblyReference.cache
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\MainWindow.g.cs
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\App.g.cs
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding_MarkupCompile.cache
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding_MarkupCompile.lref
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\bin\Debug\elementBinding.exe.config
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\bin\Debug\elementBinding.exe
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\bin\Debug\elementBinding.pdb
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\MainWindow.baml
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.g.resources
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.Properties.Resources.resources
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.csproj.GenerateResource.cache
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.exe
+C:\Users\melis\OneDrive\Desktop\CIT195\elementBinding\elementBinding\obj\Debug\elementBinding.pdb
